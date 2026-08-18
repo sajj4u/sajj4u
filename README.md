@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/52009253?v=4" width="170" alt="Sajid Sarwar professional profile photo" />
+<img src="https://raw.githubusercontent.com/sajj4u/sajj4u/main/assets/sajid-sarwar-profile.jpg" width="170" alt="Sajid Sarwar professional profile photo" />
 
 # Sajid Sarwar
 
