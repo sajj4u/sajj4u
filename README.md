@@ -59,6 +59,7 @@ I currently work as a **Backup Administrator and Technical Infrastructure Consul
 |---|---|
 | [Azure Data Protection Reference Architecture](https://github.com/sajj4u/azure-data-protection-reference-architecture) | Multi-subscription protection, immutable recovery, private connectivity, managed identity, retention and recovery validation |
 | [Infrastructure Operations Runbooks](https://github.com/sajj4u/infrastructure-operations-runbooks) | Windows Server health checks, backup incident triage, service recovery, change control and PowerShell diagnostics |
+| [Hybrid Infrastructure Disaster Recovery Playbook](https://github.com/sajj4u/hybrid-infrastructure-disaster-recovery-playbook) | Recovery governance, dependency mapping, DR test planning, continuity readiness and evidence management |
 
 ## Featured Projects
 
