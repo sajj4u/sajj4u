@@ -53,6 +53,13 @@ I currently work as a **Backup Administrator and Technical Infrastructure Consul
 - Managed complete healthcare IT environments covering servers, virtualization, networking, security, backup, telephony and critical applications.
 - Supported highly available government and enterprise production environments.
 
+## Technical Portfolio
+
+| Repository | What It Demonstrates |
+|---|---|
+| [Azure Data Protection Reference Architecture](https://github.com/sajj4u/azure-data-protection-reference-architecture) | Multi-subscription protection, immutable recovery, private connectivity, managed identity, retention and recovery validation |
+| [Infrastructure Operations Runbooks](https://github.com/sajj4u/infrastructure-operations-runbooks) | Windows Server health checks, backup incident triage, service recovery, change control and PowerShell diagnostics |
+
 ## Featured Projects
 
 ### Multi-Tier Azure Data Protection and Disaster Recovery
@@ -118,6 +125,17 @@ Implemented centralized infrastructure alerting and a secure IP telephony enviro
 - Urdu
 - Punjabi
 
+## Leadership and Service Delivery
+
+- IT infrastructure strategy, standards, roadmaps, risk and operational governance
+- Availability, incident, problem and change management
+- P1 and major-incident coordination, root-cause analysis and technical escalation
+- Capacity and cost planning across compute, storage, virtualization and backup platforms
+- RFP/RFQ, BOM evaluation, technical procurement and supplier coordination
+- Cross-functional leadership across infrastructure, cloud, network, security and application teams
+- Vendor escalation, implementation planning, testing, knowledge transfer and operational handover
+- Security and resilience awareness aligned with controlled enterprise practices
+
 ## Current Focus
 
 - Enterprise infrastructure architecture and modernization
@@ -127,6 +145,8 @@ Implemented centralized infrastructure alerting and a secure IP telephony enviro
 - Microsoft 365 protection
 - Disaster-recovery planning and validation
 - Capacity planning, technical governance and operational handover
+- PowerShell-based infrastructure diagnostics and repeatable operational checks
+- SCCM, monitoring, patching and service-improvement practices
 
 ## Professional Opportunities
 
