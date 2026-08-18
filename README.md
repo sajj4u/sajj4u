@@ -10,6 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sajj4u.github.io-4FD1C5?style=for-the-badge&logo=githubpages&logoColor=071522)](https://sajj4u.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sajid%20Sarwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajidsarwarkwt/)
+[![Email](https://img.shields.io/badge/Email-sajj4u%40yahoo.com-7B0099?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:sajj4u@yahoo.com)
 ![Location](https://img.shields.io/badge/Location-Kuwait-007A3D?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-2F4F4F?style=for-the-badge)
 
