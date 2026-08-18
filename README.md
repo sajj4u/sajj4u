@@ -8,6 +8,7 @@
 
 **Infrastructure Consultant & Lead | Azure | Microsoft 365 | VMware | NetBackup | Cohesity | Backup & Disaster Recovery**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sajj4u.github.io-4FD1C5?style=for-the-badge&logo=githubpages&logoColor=071522)](https://sajj4u.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sajid%20Sarwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajidsarwarkwt/)
 ![Location](https://img.shields.io/badge/Location-Kuwait-007A3D?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-2F4F4F?style=for-the-badge)
@@ -168,5 +169,5 @@ This GitHub profile will contain sanitized architecture patterns, operational ru
 
 ## Connect
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/sajidsarwarkwt/)
+[Visit my professional portfolio](https://sajj4u.github.io/) | [Connect with me on LinkedIn](https://www.linkedin.com/in/sajidsarwarkwt/)
 
