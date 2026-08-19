@@ -130,7 +130,6 @@ Implemented centralized infrastructure alerting and a secure IP telephony enviro
 ## Education
 
 - **Bachelor's Degree in Computer Science**, University of the Punjab, 2000 to 2004
-- **Diploma of Associate Engineer in Electrical Engineering**, Government College of Technology, 1997 to 2000
 
 ## Languages
 
