@@ -24,6 +24,17 @@ I bring more than 20 years of experience across oil and gas, government, healthc
 
 I currently work as a **Backup Administrator and Technical Infrastructure Consultant** supporting a major oil and gas environment through Zak Solutions. My responsibilities span enterprise backup and recovery, Microsoft Azure and hybrid-cloud infrastructure, Microsoft 365 protection, VMware, storage, tape operations, recovery validation and infrastructure modernization.
 
+## Selected Publications
+
+- [Designing a Resilient Hybrid-Cloud Backup and Disaster-Recovery Architecture](https://doi.org/10.5281/zenodo.22010576)  
+  Zenodo technical report | DOI: [10.5281/zenodo.22010576](https://doi.org/10.5281/zenodo.22010576)
+
+- [Protecting Microsoft 365 Data in Enterprise Operations](https://doi.org/10.5281/zenodo.22010593)  
+  Zenodo technical report | DOI: [10.5281/zenodo.22010593](https://doi.org/10.5281/zenodo.22010593)
+
+- [Engineering Backup and Disaster Recovery for Azure Landing Zones](https://doi.org/10.5281/zenodo.22010598)  
+  Zenodo technical report | DOI: [10.5281/zenodo.22010598](https://doi.org/10.5281/zenodo.22010598)
+
 ## Technology Profile
 
 <p>
